@@ -1177,7 +1177,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e0dd65;
+  background: #0dab87;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2767,7 +2767,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("https://s2.ax1x.com/2019/11/13/MGM4fS.jpg");
+  background: url("/css/bg1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
